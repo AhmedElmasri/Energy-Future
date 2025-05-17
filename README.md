@@ -17,14 +17,14 @@ This repository contains a comprehensive analysis of electricity generation, con
 - **Clustering Analysis**: K-Means to classify energy usage profiles
 
 📁 Structure
-- `data/`: Cleaned and processed dataset
-- `notebooks/`: Jupyter notebooks for EDA and modeling
-- `reports/`: Visual summaries and analytical findings
-- `dashboard/`: Streamlit app (optional)
+- Data: Cleaned and processed dataset
+- Notebook: Colab notebook for EDA and modeling
+- Reports: Visual summaries and analytical findings
+- Dashboard: Streamlit Website 
 
 📌 Tools & Libraries
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-- Jupyter Notebooks / Google Colab
+- Google Colab
 - Streamlit for dashboard visualization
 
 📈 Key Insights (Examples)
