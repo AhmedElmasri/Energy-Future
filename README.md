@@ -1,6 +1,7 @@
 🔌 Powering Sustainability: Forecasting Electricity Prices and Renewable Energy Trends
 
 📈 Overview
+
 This project uses machine learning to forecast electricity prices and analyze renewable energy trends in Turkey from 2018 to 2023.  
 We leverage real-world electricity generation and consumption data to build accurate regression models and uncover sustainability insights.
 
