@@ -26,7 +26,7 @@ Evaluation Metrics:
 ---
 
 🛠️ Techniques Used
-- Data cleaning & outlier handling (IQR method)
+- Data cleaning & outlier handling
 - Time-based feature engineering (hour, day, month, season)
 - StandardScaler for feature normalization
 - Model training, evaluation, and visualization
@@ -46,7 +46,7 @@ Evaluation Metrics:
 💻 Tools & Libraries
 - Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - scikit-learn (for ML)
-- Jupyter Notebook / Google Colab
+- Google Colab
 
 ---
 
@@ -57,16 +57,11 @@ Contains hourly data of electricity generation by source, consumption, prices (T
 
 🧩 Results
 Model	                       R² Score	        MAE (TRY       RMSE (TRY)
-Linear Regression	        0.793	         124.58	         172.93
-Random Forest             	0.976             27.34	          59.47
+Linear Regression	            0.793	           124.58	         172.93
+Random Forest             	  0.976            27.34	         59.47
 
 ---
 
 📌 Conclusion
 Machine learning offers powerful insights into electricity pricing and energy mix optimization.  
 Random Forest achieved the highest accuracy, and renewables showed strong growth and price stability.
-
----
-
-📫 Contact
-For collaboration or feedback, feel free to reach out via GitHub.
