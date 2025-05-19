@@ -43,8 +43,11 @@ Evaluation Metrics:
 Contains hourly data of electricity generation by source, consumption, prices (TRY, USD, EUR), and more from 2018–2023 in Turkey.
 
 🧩 Results
+
 Model	                       R² Score	        MAE (TRY       RMSE (TRY)
+
 Linear Regression	            0.793	           124.58	         172.93
+
 Random Forest             	  0.976            27.34	         59.47
 
 📌 Conclusion
