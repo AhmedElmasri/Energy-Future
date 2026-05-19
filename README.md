@@ -2,7 +2,7 @@
 
 📘 Project Overview
 
-This project presents a robust, data-driven exploration of renewable energy as the backbone of future energy systems. Leveraging hourly electricity generation and consumption data from 2018 to 2023, the study combines machine learning, statistical modeling, and compelling visual storytelling to advocate for renewable investment and policy reform.
+This project presents a robust, data-driven exploration of renewable energy as the backbone of future energy systems. Leveraging hourly electricity generation and consumption data from 2018 to 2023, the study combines machine learning, statistical modeling, and compelling visual storytelling to advocate for renewable investment and policy reform. Also, this forecasting framework is part of a broader interest in applying ML to energy systems, including geothermal resource assessment.
 
 🎯 Objectives
 
